@@ -59,22 +59,22 @@ const ShowNav = () => {
   return (
     <div className="d-lg-none">
       <ul className="nav_list fs-2">
-        <li>
+        <li className="nav_lists">
           <Link to="/" className="text-black text-decoration-none px-4">
             Home
           </Link>
         </li>
-        <li>
+        <li className="nav_lists">
           <Link to="" className="text-black text-decoration-none px-4">
             Projects
           </Link>
         </li>
-        <li>
+        <li className="nav_lists">
           <Link to="/skills" className="text-black text-decoration-none px-4">
             Skills
           </Link>
         </li>
-        <li>
+        <li className="contact_lists">
           <Link to="/contact" className="text-black text-decoration-none px-4">
             Contact me
           </Link>

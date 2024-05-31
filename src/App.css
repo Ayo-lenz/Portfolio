@@ -80,7 +80,7 @@
   -moz-text-decoration-color: transparent;
 }
 
-.contact-link{
+.contact-link, .contact_lists{
   background-color: #374151;
   color: #21d4fd; 
   border-radius: 20px;
@@ -133,8 +133,20 @@
 
 .nav_list{
   list-style: none;
-  
 }
+
+.nav_lists{
+  background-color: #ff8177;
+  background-image: linear-gradient(to top, #ff0844 0%, #21d4fd 100%);
+  background-size: 100%;
+  background-clip: initial;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-decoration-color: #ff8177;
+  -moz-text-decoration-color: transparent;
+}
+
 
 /* aos transition duration */
 body[data-aos-duration='4000'] [data-aos],
