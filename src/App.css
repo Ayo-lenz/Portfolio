@@ -154,6 +154,8 @@ body[data-aos-duration='4000'] [data-aos],
   transition-duration: 5000ms;
 }
 
+
+/* skill section */
 .skill_img{
   width: 40px;
   height: 40px;
@@ -180,4 +182,17 @@ body[data-aos-duration='4000'] [data-aos],
   border: 1px dashed #374151;
   border-radius: 10px;
 
+}
+
+.skill_set, .projects_set{
+  font-size: 2rem;
+  background-color: #ff8177;
+  background-image: linear-gradient(to top, #374151 0%, #21d4fd 100%);
+  background-size: 100%;
+  background-clip: initial;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-decoration-color: #ff8177;
+  -moz-text-decoration-color: transparent;
 }

@@ -29,7 +29,7 @@ export const Header = () => {
             </Link>
           </div>
           <div className="navbar-links">
-            <Link to="" className="text-white text-decoration-none px-4">
+            <Link to="works" className="text-white text-decoration-none px-4">
               Projects
             </Link>
           </div>
@@ -65,7 +65,7 @@ const ShowNav = () => {
           </Link>
         </li>
         <li className="nav_lists">
-          <Link to="" className="text-black text-decoration-none px-4">
+          <Link to="/works" className="text-black text-decoration-none px-4">
             Projects
           </Link>
         </li>
