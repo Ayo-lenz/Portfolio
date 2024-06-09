@@ -15,6 +15,8 @@ import game from '../Image/game_project.png';
 import employee from '../Image/employee_project.png';
 import restaurant from '../Image/Restaurant.png';
 import grocery from '../Image/Grocery_Bud.png';
+import dashboard from '../Image/dashboard.png';
+import solo_project from '../Image/Solo_project.png';
 
 
 
@@ -68,7 +70,7 @@ export const projectsData = [
     name: 'Amazon E-commerce',
     imageSrc: amazon,
     techStacks: 'HTML5, CSS3, JavaScript',
-    // description: 'A project description goes here.',
+    description: 'A clone of Amazon E-commerce website.',
     githubLink: 'https://github.com/ashusnapx/know-the-ingredient',
     liveLink: 'https://know-your-food-ashusnapx.streamlit.app/',
   },
@@ -77,7 +79,7 @@ export const projectsData = [
     name: 'Dropbox Clone',
     imageSrc: dropbox,
     techStacks: 'HTML5, CSS3',
-    // description: 'A project description goes here.',
+    description: 'A clone of DropBox website.',
     githubLink: 'https://github.com/ashusnapx/ai-instagram-caption',
     liveLink: 'https://ai-instagram-caption-ashusnapx.streamlit.app/',
   },
@@ -86,7 +88,7 @@ export const projectsData = [
     name: 'Rock, Paper, Scissors',
     imageSrc: game,
     techStacks: 'HTML5, CSS3, Javascript',
-    // description: 'A project description goes here.',
+    description: 'Rock, Paper, Scissors JavaScript based game.',
     githubLink: 'https://github.com/ashusnapx/gemini-mining',
     liveLink: 'https://dgms-gemini-ashusnapx.streamlit.app/',
   },
@@ -95,7 +97,7 @@ export const projectsData = [
     name: 'Edit and Add to employee list',
     imageSrc: employee, // Replace with actual image URL
     techStacks: 'CSS3, Boostrap, Tailwind CSS, React JS',
-    // description: 'A project description goes here.',
+    description: 'A project to edit and add to an organiz ation employee list.',
     githubLink: 'https://github.com/ashusnapx/gemini-chatbot',
     liveLink: 'https://ashusnapx-gemini-chatbot-main-b5ybtn.streamlit.app/',
   },
@@ -120,21 +122,19 @@ export const projectsData = [
     liveLink: 'https://swiggie.vercel.app/',
   },
   {
-    id: 5,
-    name: 'Youtube Playlist Checklist',
-    imageSrc:
-      'https://i.postimg.cc/Gpp3VdDC/Screenshot-2023-10-01-at-1-11-58-AM.png', // Replace with actual image URL
-    techStacks: 'React, Tailwind CSS',
+    id: 6,
+    name: 'Dashboard',
+    imageSrc: dashboard, // Replace with actual image URL
+    techStacks: 'HTML5, CSS3 and JavaScript',
     // description: 'Another project description.',
     githubLink: 'https://github.com/ashusnapx/checklist-app',
     liveLink: 'https://youtube-playlist-checklist.vercel.app/',
   },
   {
-    id: 6,
-    name: 'Youtube Playlist Analytics',
-    imageSrc:
-      'https://i.postimg.cc/L6dbbDP4/Screenshot-2023-10-07-at-1-10-10-AM.png', // Replace with actual image URL
-    techStacks: 'Python, Django, [Revamped UI]',
+    id: 7,
+    name: 'Farm-Tab',
+    imageSrc: solo_project, // Replace with actual image URL
+    techStacks: 'CSS3, Boostrap, Tailwind CSS, React JS',
     // description: 'Another project description.',
     githubLink: 'https://github.com/ashusnapx/youtube-playlist-length',
     liveLink: 'https://yt-playlist-length-4nzq.onrender.com/',
