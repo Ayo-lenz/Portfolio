@@ -178,6 +178,22 @@ body[data-aos-duration='4000'] [data-aos],
   }
 }
 
+.project_container{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  justify-content: center;
+  gap: 0.5rem;
+  border: 1px solid #ffb199;
+  border-radius: 25px;
+
+   @media screen and (max-width: 992px) {
+    grid-template-columns: 1fr 1fr;
+  }
+   @media screen and (max-width: 576px) {
+    grid-template-columns: 1fr;
+  }
+}
+
 .skill_content{
   border: 1px dashed #374151;
   border-radius: 10px;
@@ -195,4 +211,8 @@ body[data-aos-duration='4000'] [data-aos],
   -webkit-text-fill-color: transparent;
   text-decoration-color: #ff8177;
   -moz-text-decoration-color: transparent;
+}
+
+.project_content{
+  height: fit-content;
 }
