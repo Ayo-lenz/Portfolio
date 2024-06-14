@@ -77,6 +77,7 @@ const ShowNav = () => {
         <li className="contact_lists">
           <Link to="/contact" className="text-black text-decoration-none px-4">
             Contact me
+            <FontAwesomeIcon icon={faArrowRight} className="ps-2"/>
           </Link>
         </li>
       </ul>

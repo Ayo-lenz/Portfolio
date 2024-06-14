@@ -4,6 +4,7 @@ import Home from "./Pages/Home.jsx";
 import { Skills } from "./Pages/Skills.jsx";
 import { Project } from "./Pages/Project.jsx";
 import "./App.css";
+import Contacts from "./Pages/Contacts.jsx";
 
 
 
@@ -24,6 +25,10 @@ const router = createBrowserRouter([
       {
         path: "/skills",
         element: <Skills />,
+      },
+      {
+        path: "/contact",
+        element: <Contacts />,
       },
     ],
   },

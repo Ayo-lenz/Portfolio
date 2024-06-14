@@ -71,7 +71,7 @@ export const projectsData = [
     imageSrc: amazon,
     techStacks: ['HTML5', 'CSS3', 'JavaScript'],
     description: 'A clone of Amazon E-commerce website.',
-    githubLink: 'https://github.com/ashusnapx/know-the-ingredient',
+    githubLink: 'https://github.com/Ayo-lenz/My-Study-Projects/tree/main/JavaScript_Amazon_Project',
     liveLink: 'https://know-your-food-ashusnapx.streamlit.app/',
   },
   {
@@ -80,7 +80,7 @@ export const projectsData = [
     imageSrc: dropbox,
     techStacks: ['HTML5', 'CSS3'],
     description: 'A clone of DropBox website.',
-    githubLink: 'https://github.com/ashusnapx/ai-instagram-caption',
+    githubLink: 'https://github.com/Ayo-lenz/My-Study-Projects/tree/main/dropbox',
     liveLink: 'https://ai-instagram-caption-ashusnapx.streamlit.app/',
   },
   {
@@ -89,7 +89,7 @@ export const projectsData = [
     imageSrc: game,
     techStacks: ['HTML5', 'CSS3', 'Javascript'],
     description: 'Rock, Paper, Scissors JavaScript based game.',
-    githubLink: 'https://github.com/ashusnapx/gemini-mining',
+    githubLink: 'https://github.com/Ayo-lenz/My-Study-Projects/tree/main/JavaScript%20Masterclass%20Projects/Game',
     liveLink: 'https://dgms-gemini-ashusnapx.streamlit.app/',
   },
   {
@@ -98,7 +98,7 @@ export const projectsData = [
     imageSrc: employee, // Replace with actual image URL
     techStacks: ['CSS3', 'Boostrap', 'Tailwind CSS', 'React JS'],
     description: "A project to edit and add to an organization's employee list.",
-    githubLink: 'https://github.com/ashusnapx/gemini-chatbot',
+    githubLink: 'https://github.com/Ayo-lenz/My_Employee_React_Project',
     liveLink: 'https://ashusnapx-gemini-chatbot-main-b5ybtn.streamlit.app/',
   },
   {
@@ -107,7 +107,7 @@ export const projectsData = [
     imageSrc: restaurant, // Replace with actual image URL
     techStacks: ['HTML5', 'Boostrap', 'JavaScript'],
     description: 'Display Food and items in different category in a restaurant.',
-    githubLink: 'https://github.com/ashusnapx/airbnb-x-oyo',
+    githubLink: 'https://github.com/Ayo-lenz/Java-3/tree/Restaurant-menu/Restaurant-menu',
     liveLink: 'https://airbnb-by-ashusnapx.vercel.app/',
   },
   {
@@ -118,7 +118,7 @@ export const projectsData = [
       ['HTML5', 'CSS3', 'JavaScript'],
     description: 'An App that helps save, edit and delete a shopping list.',
     githubLink:
-      'https://github.com/ashusnapx/react-final-revision/tree/main/DAY%20-%204',
+      'https://github.com/Ayo-lenz/Java-3/tree/grocery-list',
     liveLink: 'https://swiggie.vercel.app/',
   },
   {
@@ -127,7 +127,7 @@ export const projectsData = [
     imageSrc: dashboard, // Replace with actual image URL
     techStacks: ['HTML5', 'CSS3', 'JavaScript'],
     description: 'A Personal company dashboard.',
-    githubLink: 'https://github.com/ashusnapx/checklist-app',
+    githubLink: 'https://github.com/Ayo-lenz/My-Study-Projects/tree/main/html%20css',
     liveLink: 'https://youtube-playlist-checklist.vercel.app/',
   },
   {
@@ -135,8 +135,8 @@ export const projectsData = [
     name: 'Farm-Tab',
     imageSrc: solo_project, // Replace with actual image URL
     techStacks: ['CSS3', 'Boostrap', 'Tailwind CSS', 'React JS'],
-    description: 'A Project that helps connect farmers to buyers seamlessly.',
-    githubLink: 'https://github.com/ashusnapx/youtube-playlist-length',
+    description: 'An ongoing initiative Project to help  local farmers connect to buyers seamlessly.',
+    githubLink: 'https://github.com/Ayo-lenz/my_solo_project',
     liveLink: 'https://yt-playlist-length-4nzq.onrender.com/',
   },
 ]
