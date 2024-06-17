@@ -24,24 +24,24 @@ export const Header = () => {
         </div>
         <div className="d-none d-lg-flex ">
           <div className="navbar-links">
-            <Link to="/" className="text-white text-decoration-none px-4">
+            <Link to="/my-portfolio-app/" className="text-white text-decoration-none px-4">
               Home
             </Link>
           </div>
           <div className="navbar-links">
-            <Link to="works" className="text-white text-decoration-none px-4">
+            <Link to="/my-portfolio-app/works" className="text-white text-decoration-none px-4">
               Projects
             </Link>
           </div>
           <div className="navbar-links">
-            <Link to="/skills" className="text-white text-decoration-none px-4">
+            <Link to="/my-portfolio-app/skills" className="text-white text-decoration-none px-4">
               Skills
             </Link>
           </div>
         </div>
 
         <div className="d-none d-lg-flex py-2 contact-link">
-          <Link to="/contact" className="text-white text-decoration-none px-4">
+          <Link to="/my-portfolio-app/contact" className="text-white text-decoration-none px-4">
             Contact me
             <FontAwesomeIcon icon={faArrowRight} className="ps-2"/>
           </Link>
@@ -60,22 +60,22 @@ const ShowNav = () => {
     <div className="d-lg-none">
       <ul className="nav_list fs-2">
         <li className="nav_lists">
-          <Link to="/" className="text-black text-decoration-none px-4">
+          <Link to="/my-portfolio-app/" className="text-black text-decoration-none px-4">
             Home
           </Link>
         </li>
         <li className="nav_lists">
-          <Link to="/works" className="text-black text-decoration-none px-4">
+          <Link to="/my-portfolio-app/works" className="text-black text-decoration-none px-4">
             Projects
           </Link>
         </li>
         <li className="nav_lists">
-          <Link to="/skills" className="text-black text-decoration-none px-4">
+          <Link to="/my-portfolio-app/skills" className="text-black text-decoration-none px-4">
             Skills
           </Link>
         </li>
         <li className="contact_lists">
-          <Link to="/contact" className="text-black text-decoration-none px-4">
+          <Link to="/my-portfolio-app/contact" className="text-black text-decoration-none px-4">
             Contact me
             <FontAwesomeIcon icon={faArrowRight} className="ps-2"/>
           </Link>
