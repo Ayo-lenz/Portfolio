@@ -11,23 +11,23 @@ import Contacts from "./Pages/Contacts.jsx";
 
 const router = createBrowserRouter([
   {
-    path: "/",
+    path: "/my-portfolio-app/",
     element: <Header />,
     children: [
       {
-        path: "/",
+        path: "/my-portfolio-app/",
         element: <Home />,
       },
       {
-        path: "/works",
+        path: "/my-portfolio-app/works",
         element: <Project />,
       },
       {
-        path: "/skills",
+        path: "/my-portfolio-app/skills",
         element: <Skills />,
       },
       {
-        path: "/contact",
+        path: "/my-portfolio-app/contact",
         element: <Contacts />,
       },
     ],
