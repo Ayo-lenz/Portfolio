@@ -107,8 +107,8 @@ export const projectsData = [
     imageSrc: restaurant, // Replace with actual image URL
     techStacks: ['HTML5', 'Boostrap', 'JavaScript'],
     description: 'A JavaScript based project that displays Food items in different category in a restaurant.',
-    githubLink: 'https://github.com/Ayo-lenz/Java-3/tree/Restaurant-menu/Restaurant-menu',
-    liveLink: 'https://ayo-lenz.github.io/Java-3/Restaurant-menu/',
+    githubLink: 'https://github.com/Ayo-lenz/Restaurant_menu_assignment.git',
+    liveLink: 'https://ayo-lenz.github.io/Restaurant_menu_assignment/',
   },
   {
     id: 5,
