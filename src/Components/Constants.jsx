@@ -70,9 +70,9 @@ export const projectsData = [
     name: 'Amazon E-commerce',
     imageSrc: amazon,
     techStacks: ['HTML5', 'CSS3', 'JavaScript'],
-    description: 'A clone of Amazon E-commerce website.',
-    githubLink: 'https://github.com/Ayo-lenz/My-Study-Projects/tree/main/JavaScript_Amazon_Project',
-    liveLink: 'https://know-your-food-ashusnapx.streamlit.app/',
+    description: 'Cloned Amazon E-commerce website and included JavaScript functionalities.',
+    githubLink: 'https://github.com/Ayo-lenz/Amazon_clone',
+    liveLink: 'https://ayo-lenz.github.io/Amazon_clone/',
   },
   {
     id: 1,
@@ -80,17 +80,17 @@ export const projectsData = [
     imageSrc: dropbox,
     techStacks: ['HTML5', 'CSS3'],
     description: 'A clone of DropBox website.',
-    githubLink: 'https://github.com/Ayo-lenz/My-Study-Projects/tree/main/dropbox',
-    liveLink: 'https://ai-instagram-caption-ashusnapx.streamlit.app/',
+    githubLink: 'https://github.com/Ayo-lenz/dropbox_assignment.git',
+    liveLink: 'https://ayo-lenz.github.io/dropbox_assignment/',
   },
   {
     id: 2,
     name: 'Rock, Paper, Scissors',
     imageSrc: game,
     techStacks: ['HTML5', 'CSS3', 'Javascript'],
-    description: 'Rock, Paper, Scissors JavaScript based game.',
-    githubLink: 'https://github.com/Ayo-lenz/My-Study-Projects/tree/main/JavaScript%20Masterclass%20Projects/Game',
-    liveLink: 'https://dgms-gemini-ashusnapx.streamlit.app/',
+    description: 'Built a game that is based on JavaScript functionalities.',
+    githubLink: 'https://github.com/Ayo-lenz/game_project.git',
+    liveLink: 'https://ayo-lenz.github.io/game_project/',
   },
   {
     id: 3,
@@ -99,16 +99,16 @@ export const projectsData = [
     techStacks: ['CSS3', 'Boostrap', 'Tailwind CSS', 'React JS'],
     description: "A project to edit and add to an organization's employee list.",
     githubLink: 'https://github.com/Ayo-lenz/My_Employee_React_Project',
-    liveLink: 'https://ashusnapx-gemini-chatbot-main-b5ybtn.streamlit.app/',
+    liveLink: 'https://ayo-lenz.github.io/My_Employee_React_Project/',
   },
   {
     id: 4,
     name: 'Restaurant Menu',
     imageSrc: restaurant, // Replace with actual image URL
     techStacks: ['HTML5', 'Boostrap', 'JavaScript'],
-    description: 'Display Food and items in different category in a restaurant.',
+    description: 'A JavaScript based project that displays Food items in different category in a restaurant.',
     githubLink: 'https://github.com/Ayo-lenz/Java-3/tree/Restaurant-menu/Restaurant-menu',
-    liveLink: 'https://airbnb-by-ashusnapx.vercel.app/',
+    liveLink: 'https://ayo-lenz.github.io/Java-3/Restaurant-menu/',
   },
   {
     id: 5,
@@ -116,10 +116,10 @@ export const projectsData = [
     imageSrc: grocery, // Replace with actual image URL
     techStacks:
       ['HTML5', 'CSS3', 'JavaScript'],
-    description: 'An App that helps save, edit and delete a shopping list.',
+    description: 'A JavaScript based App that helps save, edit and delete a shopping list.',
     githubLink:
       'https://github.com/Ayo-lenz/Java-3/tree/grocery-list',
-    liveLink: 'https://swiggie.vercel.app/',
+    liveLink: 'https://ayo-lenz.github.io/Java-3/',
   },
   {
     id: 6,
@@ -127,8 +127,8 @@ export const projectsData = [
     imageSrc: dashboard, // Replace with actual image URL
     techStacks: ['HTML5', 'CSS3', 'JavaScript'],
     description: 'A Personal company dashboard.',
-    githubLink: 'https://github.com/Ayo-lenz/My-Study-Projects/tree/main/html%20css',
-    liveLink: 'https://youtube-playlist-checklist.vercel.app/',
+    githubLink: 'https://github.com/Ayo-lenz/My_dashboard',
+    liveLink: 'https://ayo-lenz.github.io/My_dashboard/',
   },
   {
     id: 7,
@@ -137,6 +137,6 @@ export const projectsData = [
     techStacks: ['CSS3', 'Boostrap', 'Tailwind CSS', 'React JS'],
     description: 'An ongoing initiative Project to help  local farmers connect to buyers seamlessly.',
     githubLink: 'https://github.com/Ayo-lenz/my_solo_project',
-    liveLink: 'https://yt-playlist-length-4nzq.onrender.com/',
+    liveLink: 'https://ayo-lenz.github.io/my_solo_project/',
   },
 ]
