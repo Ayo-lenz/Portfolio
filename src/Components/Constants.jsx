@@ -17,6 +17,7 @@ import restaurant from '../Image/Restaurant.png';
 import grocery from '../Image/Grocery_Bud.png';
 import dashboard from '../Image/dashboard.png';
 import solo_project from '../Image/Solo_project.png';
+import prompt from '../Image/prompt.png';
 
 
 
@@ -67,6 +68,15 @@ export const skillCategories = [
 export const projectsData = [
   {
     id: 0,
+    name: 'Prompt Base',
+    imageSrc: prompt,
+    techStacks: ['Tailwind', 'JavaScript', 'Next JS', 'MongoDB', 'Mongoose', 'Google Auth'],
+    description: 'An App where you can save and get powerful AI prompts',
+    githubLink: 'https://github.com/Ayo-lenz/Prompt-Base',
+    liveLink: 'https://prompt-base-52og-br4uchx22-ayolenz.vercel.app',
+  },
+  {
+    id: 1,
     name: 'Amazon E-commerce',
     imageSrc: amazon,
     techStacks: ['HTML5', 'CSS3', 'JavaScript'],
